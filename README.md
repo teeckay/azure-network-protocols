@@ -253,7 +253,7 @@ Next, use nslookup for example using  www.google.com to filter DNS traffic on Wi
 </p>
 <p>
 
-Filter out RDP traffic using port number 3389 (tcp.port==3389) and traffic is expected since the two virtual machines connected for this exercise are exchanging RDP traffic; from the host Virtual machine to the Windows virtual machine. 
+I then filter out RDP traffic using port number 3389 (tcp.port==3389) and traffic is expected since the two virtual machines connected for this exercise are exchanging RDP traffic; from the host Virtual machine to the Windows virtual machine. 
 
 </p>
 <br />
